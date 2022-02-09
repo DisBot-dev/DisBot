@@ -2,5 +2,5 @@
 # DisBot
 An open-source Discord bot for working online!! (Name will be changed)
 
-##Prefix
+## Prefix
 The prefix is `%`, type `%help` for the list of commands!
