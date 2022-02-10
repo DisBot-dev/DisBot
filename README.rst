@@ -1,9 +1,9 @@
 DisBot
 =======
 
-.. image:: https://discord.com/api/guilds/938846833667620914/embed.png
+.. image:: https://discord.com/api/guilds/938846833667620914/widget.png?style=shield
   :target: https://discord.gg/qTGpfMgpxK
-  :alt: Discord server
+  :alt: Support server
 
 .. image:: https://img.shields.io/pypi/v/py-cord.svg
   :target: https://pypi.python.org/pypi/py-cord
