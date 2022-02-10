@@ -6,8 +6,8 @@ An open-source Discord bot for working online!! (Name will be changed)
 The prefix is `%`, type `%help` for the list of commands!
 
 # Credits
-Idea: @Faxe
-\n
-Dashboard: @Erwinn @CodeElevator @Raphael5916-Raph.html
-\n
-Bot code: @Faxe @CodeElevator @Starfit
+Idea: Faxe
+
+Dashboard: Erwinn CodeElevator Raphael5916-Raph.html
+
+Bot code: Faxe CodeElevator Starfit
