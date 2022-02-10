@@ -1,13 +1,9 @@
 DisBot
 =======
 
-.. image:: https://discord.com/api/guilds/938846833667620914/widget.png?style=shield
+.. image:: https://img.shields.io/discord/938846833667620914?color=blue&label=discord
   :target: https://discord.gg/qTGpfMgpxK
   :alt: Support server
-
-.. image:: https://img.shields.io/pypi/v/py-cord.svg
-  :target: https://pypi.python.org/pypi/py-cord
-  :alt: PyPI Pycord
 
 An open-source Discord bot for working online!! (Name will be changed)
 
