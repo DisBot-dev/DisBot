@@ -1,7 +1,7 @@
 DisBot
 ===========================
 
-.. image:: https://img.shields.io/discord/938846833667620914?color=blue&label=discord
+.. image:: https://discord.com/api/guilds/938846833667620914/widget.png?style=banner2
   :target: https://discord.gg/qTGpfMgpxK
   :alt: Support server
 
