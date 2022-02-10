@@ -1,4 +1,4 @@
-![DisBot server](https://discord.com/api/guilds/938846833667620914/widget.png?style=banner2)
+![DisBot server](https://discord.com/api/guilds/938846833667620914/widget.png?style=shield)
 # DisBot
 An open-source Discord bot for working online!! (Name will be changed)
 
