@@ -1,9 +1,10 @@
 DisBot
-=======
+===========================
 
 .. image:: https://img.shields.io/discord/938846833667620914?color=blue&label=discord
   :target: https://discord.gg/qTGpfMgpxK
   :alt: Support server
+
 
 An open-source Discord bot for working online!! (Name will be changed)
 
