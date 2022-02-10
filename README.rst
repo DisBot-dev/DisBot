@@ -17,8 +17,10 @@ The prefix is `%`, type `%help` for the list of commands!
 
 Pycord lib
 ---------------
-`Github <https://github.com/Pycord-Development/pycord>`_
+`Github source <https://github.com/Pycord-Development/pycord>`_
+
 Install:
+
 .. code:: sh
 
     # Linux/macOS
