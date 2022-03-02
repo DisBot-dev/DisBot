@@ -5,10 +5,9 @@ from discord.ext import commands
 from discord.ui import View
 token = os.environ['DISCORD_BOT_SECRET']
 
-bot = commands.Bot(command_prefix = "%",
-    activity = discord.Activity(
-      name= "%help for the commands!",
-      type = discord.ActivityType.watching
+bot = commands.Bot(command_prefix = "$",
+    activity = discord.Game(
+      name= "$help for the commands!",
       ),
       status = discord.Status.online)
 bot.remove_command("help")
